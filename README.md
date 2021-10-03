@@ -1,5 +1,7 @@
 # gilak
 
+![Gilak App](https://github.com/Navid2zp/gilak/raw/main/Feature-Graphic.jpg)
+
 Gilaki language dictionary
 
 ## Download
